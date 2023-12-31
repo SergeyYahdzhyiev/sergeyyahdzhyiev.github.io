@@ -1,4 +1,4 @@
-const currentAge = '28';
+const currentAge = '29';
 const education = [
   {
     title: 'Odessa National College of Arts and Culture',
@@ -6,8 +6,8 @@ const education = [
     period: 'September 2012 - July 2016',
   },
   {
-    title: 'GISMA Business School (Potsdam, Germany)',
-    degree: 'Software Egineering',
+    title: 'GISMA University of Applied Sciences (Potsdam, Germany)',
+    degree: 'Bachelor of Software Egineering',
     period: 'September 2022 - Today',
   },
 ];
@@ -69,6 +69,64 @@ const experience = [
   },
 ];
 const skills = {
+  development: [
+    {
+      title: 'Git/GitHub/GitLab',
+      level: 60,
+    },
+    {
+      title: 'Oracle Cloud',
+      level: 50,
+    },
+    {
+      title: 'jQuery',
+      level: 50,
+    },
+    {
+      title: 'Webpack',
+      level: 50,
+    },
+    {
+      title: 'MongoDB',
+      level: 40,
+    },
+    {
+      title: 'Redux',
+      level: 50,
+    },
+    {
+      title: "Lua",
+      level: 10,
+    },
+    {
+      title: "C++",
+      level: 30,
+    },
+    {
+      title: 'Python',
+      level: 60,
+    },
+    {
+      title: 'React',
+      level: 65,
+    },
+    {
+      title: 'Node.js',
+      level: 55,
+    },
+    {
+      title: 'HTML/CSS/SASS',
+      level: 70,
+    },
+    {
+      title: 'TypeScript',
+      level: 75,
+    },
+    {
+      title: 'JavaScript',
+      level: 75,
+    },
+  ],
   musical: [
     {
       title: 'Sight-Reading',
@@ -93,56 +151,6 @@ const skills = {
     {
       title: 'Drums & Percussion',
       level: 95,
-    },
-  ],
-  development: [
-    {
-      title: 'Python',
-      level: 60,
-    },
-    {
-      title: 'Git/GitHub/GitLab',
-      level: 60,
-    },
-    {
-      title: 'HTML/CSS/SASS',
-      level: 70,
-    },
-    {
-      title: 'Oracle Cloud',
-      level: 50,
-    },
-    {
-      title: 'jQuery',
-      level: 50,
-    },
-    {
-      title: 'Webpack',
-      level: 50,
-    },
-    {
-      title: 'MongoDB',
-      level: 40,
-    },
-    {
-      title: 'Node.js',
-      level: 55,
-    },
-    {
-      title: 'Redux',
-      level: 50,
-    },
-    {
-      title: 'React',
-      level: 65,
-    },
-    {
-      title: 'TypeScript',
-      level: 55,
-    },
-    {
-      title: 'JavaScript',
-      level: 75,
     },
   ],
   languages: [
