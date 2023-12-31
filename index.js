@@ -57,14 +57,14 @@ const experience = [
   },
   {
     company: 'Periodix.NET, (USA/Poland)',
-    title: 'Junior Front-End Developer',
+    title: 'Full-stack Developer',
     period: 'March 2021 - Today',
     list: [
-      'Develop new UI components',
-      'Maintain and scale existing UI',
-      'Develop and maintain NLP API (Python/Node)',
-      'Set up CI/CD for development purposes',
-      'Maintain backend code parts on Node.js',
+      'Developed existing new UI components and Single Page Applications',
+      'Developed backend services and REST APIs',
+      'Developed Chrome browser plugins',
+      'Develop and maintain NLP APIs, and ML solutions (Python/Node/SpaCy/Scikit-learn)',
+      'Set up CI/CD for development purposes (GitHub/GitLab/Docker)',
     ],
   },
 ];
